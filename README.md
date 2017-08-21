@@ -25,4 +25,5 @@ git pull origin master
 有merge權限的人作最後審核
 merge後，delete branch
 
-五、end
+備註、
+(1)git checkout不只是切換branch，也可以用來還原變更
