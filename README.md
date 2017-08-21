@@ -27,3 +27,7 @@ merge後，delete branch
 
 備註、
 (1)git checkout不只是切換branch，也可以用來還原變更
+(2)用git fetch取代git pull
+git fetch origin master 從遠程的origin倉庫的master主分支更新最新的版本到origin/master分支上
+git log -p master..origin/master 比較本地的master分支和origin/master分支的差別
+git merge origin/master 合併內容到本地master分支
