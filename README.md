@@ -19,3 +19,10 @@ git pull origin master
 (4)git commit -m "Commit的名稱"
     git log 看一下commit的檔案
 (5)git push origin "Branch名稱"
+
+四、經過無數次的commit後，確定完成後，進行pull request。讓群組人員給意見
+到github作pull request
+有merge權限的人作最後審核
+merge後，delete branch
+
+五、end
