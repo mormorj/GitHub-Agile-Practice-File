@@ -1,5 +1,3 @@
-# GitHub-Agile-Practice-File
-
 一、設定遠端存儲庫
 (1)
 git remote add origin
